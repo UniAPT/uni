@@ -1,0 +1,20 @@
+---
+cover: ../.gitbook/assets/images (1).jpg
+coverY: 0
+---
+
+# Historical Timeline: From Inception to Present
+
+
+
+<table data-view="cards"><thead><tr><th align="center"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;"><strong>Inception and Early Development (Early 2022)</strong></mark></td><td><strong>January 2022</strong>: UNIAPT conceptualized by its founders. Initial ideas and visions for creating a suite of tools for meta-universe development are formulated.</td><td><strong>February 2022</strong>: Legal formation of UNI LTD as the governing entity for UNIAPT, setting the foundation for structured growth and development.</td><td></td></tr><tr><td align="center"><mark style="color:blue;"><strong>Project Development and Expansion</strong></mark></td><td><strong>March-April 2022</strong>: Development of the core framework begins, focusing on the personal game engine based on Unreal 5. This period marks significant R&#x26;D efforts to integrate user-friendly features for beginners.</td><td><strong>May-June 2022</strong>: Introduction of over 20 tools for developing meta-universes, signaling a major milestone in the project's development. This phase includes rigorous testing and initial community feedback.</td><td><strong>July-August 2022</strong>: Expansion of the library for creators, growing to over 512,000 attributes. This vast library is pivotal in empowering creators to build diverse and unique worlds.</td></tr><tr><td align="center"><mark style="color:blue;"><strong>Community Engagement and Open Source Transition</strong></mark></td><td><strong>September-October 2022</strong>: Launch of community engagement initiatives. These efforts are aimed at gathering user feedback and fostering a robust user community around the project.</td><td><strong>November-December 2022</strong>: Transition to an open-source model. This strategic move amplifies innovation, allowing developers worldwide to contribute to and expand the UNIAPT ecosystem.</td><td></td></tr><tr><td align="center"><mark style="color:blue;"><strong>Encryption Enhancements and Security Focus</strong></mark></td><td><strong>June-July 2023</strong>: Implementation of advanced encryption methods, including two layers for the project launcher, one for the website, and two for the development environment, enhancing overall security and user trust.</td><td></td><td></td></tr><tr><td align="center"><mark style="color:blue;"><strong>Recognition and Industry Impact</strong></mark></td><td><strong>August-September 2023</strong>: UNIAPT gains recognition as a promising tool in the blockchain domain, cementing its position in the industry.</td><td><strong>October-December 2023</strong>: Further expansion of the toolset and library, along with continuous improvements based on community feedback.</td><td></td></tr><tr><td align="center"><mark style="color:blue;"><strong>Present and Future Outlook</strong></mark></td><td><strong>2024</strong>: UNIAPT is celebrated as the most promising Blockchain tool of the year. The focus shifts to further innovations, community growth, and sustainable development</td><td><strong>Beyond 2024</strong>: Continued development, with a roadmap focusing on next-generation tools, enhanced user experience, and deeper blockchain integration.</td><td></td></tr></tbody></table>
+
+***
+
+{% hint style="info" %}
+**Some of the information may not be valid due to the constant growth of the project and the variability of future plans. Stay alert!**
+
+
+
+This historical timeline encapsulates UNIAPT’s journey from its inception to its current status as a leading innovator in the blockchain and gaming space. The project's evolution is marked by significant technological advancements, community-driven development, and a steadfast commitment to providing powerful, user-friendly tools for creators and blockchain enthusiasts. The ongoing focus on innovation, security, and community engagement positions UNIAPT for continued growth and influence in the future.
+{% endhint %}
