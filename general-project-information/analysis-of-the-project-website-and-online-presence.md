@@ -8,7 +8,7 @@ coverY: 0
 ***
 
 {% hint style="success" %}
-The website of UNIAPT ([https://uniapt.io/](https://uniapt.io/)) serves as the digital gateway to the project, providing comprehensive information, resources, and a user interface that reflects the project's identity and values. A detailed analysis of the website and its online representation involves examining various aspects, including design, content, usability, and functionality.
+The website of UNIAPT serves as the digital gateway to the project, providing comprehensive information, resources, and a user interface that reflects the project's identity and values. A detailed analysis of the website and its online representation involves examining various aspects, including design, content, usability, and functionality.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/msedge_QBNt8SKg4u.jpg" alt=""><figcaption></figcaption></figure>
