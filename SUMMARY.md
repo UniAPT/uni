@@ -1,6 +1,6 @@
 # Table of contents
 
-* [twitter.com/uniaptio](https://twitter.com/uniaptio)
+* [x.com/UniToolKit](https://twitter.com/uniaptio)
 * [❔ What is UniAPT](README.md)
 * [⭐ Start](<README (1).md>)
 
