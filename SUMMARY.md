@@ -1,6 +1,6 @@
 # Table of contents
 
-* [x.com/UniToolKit](https://x.com/UniToolKit)
+* [x.com/UniToolApp](https://x.com/UniToolApp)
 * [❔ What is UniAPT](README.md)
 * [⭐ Start](<README (1).md>)
 
